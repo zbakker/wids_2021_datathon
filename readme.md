@@ -1,7 +1,6 @@
 ![widslogo](Women-in-Data-Science-2018.jpg)
 ## <center>:sparkles: Women in Data Science 2021 Datathon :sparkles:</center> 
-### <center>**Diabetes Mellitus Prediction**</center>
-<br></br>
+
 This is the code used to submit entries to the [WiDS 2021 Datathon](https://www.kaggle.com/c/widsdatathon2021). Our team's final ranking was 417 out of 808 with a score of 0.85140. 
 
 ### <center>**Task**</center> 
