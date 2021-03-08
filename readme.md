@@ -19,3 +19,6 @@ Using data from the first 24 hours of intensive care, create a model to predict 
 * NumPy
 * sklearn 
 * XGBoost
+
+### <center> **Acknowledgements** </center>
+Some starter code came from this [Kaggle notebook](https://www.kaggle.com/parulpandey/starter-code-with-baseline).
